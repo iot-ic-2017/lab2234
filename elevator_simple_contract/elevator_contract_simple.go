@@ -14,8 +14,8 @@ See the License for the specific language governing permissions and limitations 
 
 Contributors:
 
-Rahul Gupta  - IBM - World of Watson - rahul.gupta@us.ibm.com
-Leucir Marin - IBM - World of Watson - lmarin@us.ibm.com
+Rahul Gupta  - IBM - InterConnect 2017 - rahul.gupta@us.ibm.com
+Leucir Marin - IBM - InterConnect 2017 - lmarin@us.ibm.com
 ******************************************************************************/
 
 // IoT Blockchain Simple Elevator Contract v 1.0
